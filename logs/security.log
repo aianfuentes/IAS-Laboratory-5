@@ -1,0 +1,4 @@
+[2025-06-10 10:44:18] Error retrieving incidents: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reported_at' in 'order clause'
+[2025-06-10 10:44:18] Error retrieving violations: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'violated_at' in 'order clause'
+[2025-06-10 10:46:35] Error retrieving incidents: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reported_at' in 'order clause'
+[2025-06-10 10:46:35] Error retrieving violations: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'violated_at' in 'order clause'
